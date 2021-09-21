@@ -28,7 +28,7 @@ void reset (){
 int main(){
 	system("color b");
 	red();
-	printf("THIS IS RED\n");
+	printf("THIS IS PULA\n");
 	boldred();
 	printf("THIS IS BOLDRED\n");
 	boldgreen();
